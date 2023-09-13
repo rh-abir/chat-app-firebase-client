@@ -1,7 +1,9 @@
+import Login from "./pages/Login";
+import "./style.scss";
 function App() {
   return (
     <>
-      <h2>This is app</h2>
+      <Login />
     </>
   );
 }
